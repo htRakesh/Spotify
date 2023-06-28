@@ -1,9 +1,9 @@
 The following functions added to Spotify web application:
 
-1.**Created user**
-2.**Created artist**
-3.**Created album**
-4.**Created song**
+1.**Created user**.
+2.**Created artist**.
+3.**Created album**.
+4.**Created song**.
 5.**Created playlist based on length**: This API creates a new playlist with a given title and adds all songs with a given length to the 
   playlist. The creator of the playlist is the given user, who is also the only listener at the time of playlist creation.
 6.**Created playlist based on name**: This API creates a new playlist with a given title and adds all songs with the given titles to the 
